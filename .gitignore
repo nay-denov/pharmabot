@@ -1,0 +1,15 @@
+# Secrets (НИКОГА не качвайте в GitHub!)
+.streamlit/secrets.toml
+
+# История на разговорите
+history/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
